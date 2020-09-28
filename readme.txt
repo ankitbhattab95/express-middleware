@@ -1,7 +1,10 @@
-2.
-Start reading on Node Express and set up a sample app having the below ñ
+#### About :
+- Implementation of exrpress middleware.
 
-You can setup sample routes. /home, /details .. add a middleware function which will get the current time store it in the request and pass it to the next route using ìnext()î
+2.
+Start reading on Node Express and set up a sample app having the below ‚Äì
+
+You can setup sample routes. /home, /details .. add a middleware function which will get the current time store it in the request and pass it to the next route using ‚Äúnext()‚Äù
 
 
 run command: node index.js
